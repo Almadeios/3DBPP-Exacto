@@ -1,0 +1,458 @@
+[
+    {
+        "id": "1_1B_0.obj",
+        "position_mm": [
+            0,
+            59,
+            118
+        ],
+        "dimensions_mm": [
+            58,
+            58,
+            58
+        ],
+        "rotation": [
+            1,
+            0,
+            2
+        ],
+        "shape": null
+    },
+    {
+        "id": "1_2I_0.obj",
+        "position_mm": [
+            0,
+            0,
+            0
+        ],
+        "dimensions_mm": [
+            59,
+            117,
+            59
+        ],
+        "rotation": [
+            1,
+            0,
+            2
+        ],
+        "shape": null
+    },
+    {
+        "id": "1_2I_1.obj",
+        "position_mm": [
+            0,
+            59,
+            59
+        ],
+        "dimensions_mm": [
+            117,
+            59,
+            59
+        ],
+        "rotation": [
+            2,
+            1,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "1_3I_0.obj",
+        "position_mm": [
+            59,
+            118,
+            0
+        ],
+        "dimensions_mm": [
+            59,
+            59,
+            176
+        ],
+        "rotation": [
+            1,
+            2,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "1_3I_1.obj",
+        "position_mm": [
+            59,
+            236,
+            117
+        ],
+        "dimensions_mm": [
+            176,
+            59,
+            59
+        ],
+        "rotation": [
+            2,
+            0,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_2B_0.obj",
+        "position_mm": [
+            0,
+            0,
+            59
+        ],
+        "dimensions_mm": [
+            117,
+            59,
+            117
+        ],
+        "rotation": [
+            0,
+            2,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_2B_1.obj",
+        "position_mm": [
+            118,
+            236,
+            0
+        ],
+        "dimensions_mm": [
+            117,
+            59,
+            117
+        ],
+        "rotation": [
+            2,
+            1,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_2L_0.obj",
+        "position_mm": [
+            236,
+            176,
+            177
+        ],
+        "dimensions_mm": [
+            59,
+            117,
+            117
+        ],
+        "rotation": [
+            2,
+            1,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_2L_1.obj",
+        "position_mm": [
+            118,
+            118,
+            0
+        ],
+        "dimensions_mm": [
+            117,
+            117,
+            58
+        ],
+        "rotation": [
+            0,
+            2,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_2L_2.obj",
+        "position_mm": [
+            118,
+            118,
+            58
+        ],
+        "dimensions_mm": [
+            117,
+            58,
+            117
+        ],
+        "rotation": [
+            2,
+            1,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3L_0.obj",
+        "position_mm": [
+            59,
+            177,
+            58
+        ],
+        "dimensions_mm": [
+            176,
+            59,
+            118
+        ],
+        "rotation": [
+            0,
+            2,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3L_1.obj",
+        "position_mm": [
+            235,
+            0,
+            177
+        ],
+        "dimensions_mm": [
+            59,
+            176,
+            118
+        ],
+        "rotation": [
+            2,
+            0,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3L_2.obj",
+        "position_mm": [
+            0,
+            118,
+            0
+        ],
+        "dimensions_mm": [
+            59,
+            176,
+            118
+        ],
+        "rotation": [
+            1,
+            0,
+            2
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3L_3.obj",
+        "position_mm": [
+            118,
+            59,
+            0
+        ],
+        "dimensions_mm": [
+            176,
+            59,
+            118
+        ],
+        "rotation": [
+            0,
+            1,
+            2
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3L_4.obj",
+        "position_mm": [
+            118,
+            0,
+            0
+        ],
+        "dimensions_mm": [
+            176,
+            59,
+            118
+        ],
+        "rotation": [
+            2,
+            0,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3L_5.obj",
+        "position_mm": [
+            0,
+            0,
+            176
+        ],
+        "dimensions_mm": [
+            59,
+            176,
+            118
+        ],
+        "rotation": [
+            0,
+            2,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3T_0.obj",
+        "position_mm": [
+            0,
+            176,
+            118
+        ],
+        "dimensions_mm": [
+            59,
+            118,
+            176
+        ],
+        "rotation": [
+            2,
+            1,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3T_1.obj",
+        "position_mm": [
+            59,
+            0,
+            177
+        ],
+        "dimensions_mm": [
+            176,
+            118,
+            59
+        ],
+        "rotation": [
+            0,
+            2,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3T_2.obj",
+        "position_mm": [
+            118,
+            0,
+            118
+        ],
+        "dimensions_mm": [
+            176,
+            118,
+            59
+        ],
+        "rotation": [
+            0,
+            2,
+            1
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3T_3.obj",
+        "position_mm": [
+            59,
+            118,
+            176
+        ],
+        "dimensions_mm": [
+            176,
+            118,
+            59
+        ],
+        "rotation": [
+            2,
+            1,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3Z_0.obj",
+        "position_mm": [
+            59,
+            118,
+            235
+        ],
+        "dimensions_mm": [
+            176,
+            118,
+            59
+        ],
+        "rotation": [
+            0,
+            1,
+            2
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3Z_1.obj",
+        "position_mm": [
+            59,
+            0,
+            236
+        ],
+        "dimensions_mm": [
+            176,
+            118,
+            59
+        ],
+        "rotation": [
+            0,
+            1,
+            2
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3Z_2.obj",
+        "position_mm": [
+            235,
+            118,
+            0
+        ],
+        "dimensions_mm": [
+            59,
+            118,
+            176
+        ],
+        "rotation": [
+            1,
+            2,
+            0
+        ],
+        "shape": null
+    },
+    {
+        "id": "2_3Z_3.obj",
+        "position_mm": [
+            59,
+            236,
+            176
+        ],
+        "dimensions_mm": [
+            176,
+            59,
+            118
+        ],
+        "rotation": [
+            2,
+            0,
+            1
+        ],
+        "shape": null
+    }
+]
