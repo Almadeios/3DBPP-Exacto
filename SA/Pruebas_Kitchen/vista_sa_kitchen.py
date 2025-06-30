@@ -1,4 +1,4 @@
-# vista_ga_kitchen.py
+# vista_ga.py
 import os
 import json
 import trimesh
