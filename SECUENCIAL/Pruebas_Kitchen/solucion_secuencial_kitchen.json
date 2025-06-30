@@ -1,0 +1,242 @@
+[
+    {
+        "id": "board/board_15.obj",
+        "position_m": [
+            0.069,
+            0.0758,
+            0.0118
+        ]
+    },
+    {
+        "id": "board/board_1.obj",
+        "position_m": [
+            0.0641,
+            0.0694,
+            0.0544
+        ]
+    },
+    {
+        "id": "objects/kit_ChocoIcing_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.0396,
+            0.0387,
+            0.108
+        ]
+    },
+    {
+        "id": "board/board_2.obj",
+        "position_m": [
+            0.0728,
+            0.0748,
+            0.1792
+        ]
+    },
+    {
+        "id": "board/board_1.obj",
+        "position_m": [
+            0.0641,
+            0.0694,
+            0.2144
+        ]
+    },
+    {
+        "id": "concave/shapeNet_bowl_85__6501113f772fc798db649551c356c6e8_0.obj",
+        "position_m": [
+            0.0795,
+            0.0793,
+            0.2701
+        ]
+    },
+    {
+        "id": "objects/gd_toilet_paper_poisson_008_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.0556,
+            0.187,
+            0.0937
+        ]
+    },
+    {
+        "id": "objects/054_softball_0.obj",
+        "position_m": [
+            0.0483,
+            0.1881,
+            0.2474
+        ]
+    },
+    {
+        "id": "board/board_19.obj",
+        "position_m": [
+            0.0792,
+            0.2356,
+            0.0172
+        ]
+    },
+    {
+        "id": "board/board_9.obj",
+        "position_m": [
+            0.0654,
+            0.2356,
+            0.1724
+        ]
+    },
+    {
+        "id": "board/board_18.obj",
+        "position_m": [
+            0.152,
+            0.0692,
+            0.0929
+        ]
+    },
+    {
+        "id": "concave/shapeNet_bowl_2__dd381b3459767f7b18f18cdcd25d1bbb_0.obj",
+        "position_m": [
+            0.1397,
+            0.0801,
+            0.1307
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_005_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.1044,
+            0.2635,
+            0.2376
+        ]
+    },
+    {
+        "id": "concave/modelNet_bowl_0002_0.obj",
+        "position_m": [
+            0.1793,
+            0.1597,
+            0.2441
+        ]
+    },
+    {
+        "id": "objects/gd_camera_poisson_010_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.0534,
+            0.2764,
+            0.072
+        ]
+    },
+    {
+        "id": "concave/modelNet_cup_0079_0.obj",
+        "position_m": [
+            0.2195,
+            0.2194,
+            0.1041
+        ]
+    },
+    {
+        "id": "objects/063-a_marbles_2.obj",
+        "position_m": [
+            0.1784,
+            0.0334,
+            0.0337
+        ]
+    },
+    {
+        "id": "objects/gd_light_bulb_poisson_001_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.1732,
+            0.0634,
+            0.2283
+        ]
+    },
+    {
+        "id": "objects/017_orange_0.obj",
+        "position_m": [
+            0.1165,
+            0.2761,
+            0.114
+        ]
+    },
+    {
+        "id": "board/board_3.obj",
+        "position_m": [
+            0.2259,
+            0.1543,
+            0.0143
+        ]
+    },
+    {
+        "id": "board/board_0.obj",
+        "position_m": [
+            0.2315,
+            0.0652,
+            0.1773
+        ]
+    },
+    {
+        "id": "objects/gd_rubber_duck_poisson_002_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.2149,
+            0.2549,
+            0.217
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_010_scaled.obj.smoothed_2.obj",
+        "position_m": [
+            0.2485,
+            0.046,
+            0.2426
+        ]
+    },
+    {
+        "id": "objects/063-a_marbles_1.obj",
+        "position_m": [
+            0.2201,
+            0.2179,
+            0.094
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_005_scaled.obj.smoothed_4.obj",
+        "position_m": [
+            0.2599,
+            0.0355,
+            0.0553
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_013_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.031,
+            0.2711,
+            0.23
+        ]
+    },
+    {
+        "id": "objects/kit_ChocoIcing_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.2592,
+            0.1172,
+            0.2312
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_014_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.2746,
+            0.1145,
+            0.0733
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_004_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.0313,
+            0.1127,
+            0.1093
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_004_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.2713,
+            0.1927,
+            0.2093
+        ]
+    }
+]

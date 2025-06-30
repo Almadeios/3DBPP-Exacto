@@ -1,0 +1,10 @@
+# Entorno virtual de Python
+.venv/
+
+# Directorios de modelos 3D
+dataset/
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+
