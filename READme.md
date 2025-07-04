@@ -1,4 +1,5 @@
 # Procedimiento para usar el programa 
+ * Crear un enviroment Python 3.11.6
  * .\.venv\Scripts\activate
  * pip install -r requirements.txt
 
@@ -29,3 +30,11 @@
  * python SA\Pruebas_Kitchen\simulated_annealing_kitchen.py       (Esto ejecuta el algorimo)
  * python SA\Pruebas_Kitchen\vista_sa_kitchen.py                  (Esto muestra el resultado de la operación)
   
+# Para el uso del algoritmo GRASP
+ Para el dataset Blockout
+ * python GRASP\Pruebas_Blockout\grasp.py                         (Esto ejecuta el algorimo)
+ * python GRASP\Pruebas_Blockout\vista_grasp.py                   (Esto muestra el resultado de la operación)
+
+ Para el dataset Kitchen
+ * python GRASP\Pruebas_Kitchen\grasp_kitchen.py                  (Esto ejecuta el algorimo)
+ * python GRASP\Pruebas_Kitchen\vista_grasp_kitchen.py            (Esto muestra el resultado de la operación)

@@ -1,0 +1,282 @@
+[
+    {
+        "id": "concave/shapeNet_bowl_57__f2cb15fb793e7fa244057c222118625_0.obj",
+        "position_m": [
+            0.0775,
+            0.0778,
+            0.0227
+        ]
+    },
+    {
+        "id": "board/board_0.obj",
+        "position_m": [
+            0.0715,
+            0.0652,
+            0.0773
+        ]
+    },
+    {
+        "id": "objects/gd_rubber_duck_poisson_001_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.0309,
+            0.0627,
+            0.13
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_014_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.0346,
+            0.0345,
+            0.1933
+        ]
+    },
+    {
+        "id": "objects/bigbird_v8_fusion_peach_mango_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.0352,
+            0.1199,
+            0.2343
+        ]
+    },
+    {
+        "id": "board/board_17.obj",
+        "position_m": [
+            0.0637,
+            0.1657,
+            0.1156
+        ]
+    },
+    {
+        "id": "objects/gd_rubber_duck_poisson_000_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.0501,
+            0.1877,
+            0.1736
+        ]
+    },
+    {
+        "id": "objects/kit_OrangeMarmelade_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.0387,
+            0.1992,
+            0.0468
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_005_scaled.obj.smoothed_4.obj",
+        "position_m": [
+            0.0399,
+            0.2555,
+            0.2353
+        ]
+    },
+    {
+        "id": "objects/kit_ChocoIcing_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.0396,
+            0.2787,
+            0.028
+        ]
+    },
+    {
+        "id": "objects/054_softball_0.obj",
+        "position_m": [
+            0.1083,
+            0.0481,
+            0.2474
+        ]
+    },
+    {
+        "id": "concave/modelNet_cup_0080_0.obj",
+        "position_m": [
+            0.185,
+            0.13,
+            0.1581
+        ]
+    },
+    {
+        "id": "board/board_15.obj",
+        "position_m": [
+            0.129,
+            0.1758,
+            0.2718
+        ]
+    },
+    {
+        "id": "board/board_10.obj",
+        "position_m": [
+            0.1515,
+            0.2384,
+            0.0107
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_003_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.0346,
+            0.2746,
+            0.113
+        ]
+    },
+    {
+        "id": "objects/054_softball_0.obj",
+        "position_m": [
+            0.1083,
+            0.2681,
+            0.1674
+        ]
+    },
+    {
+        "id": "board/board_16.obj",
+        "position_m": [
+            0.1543,
+            0.2209,
+            0.0525
+        ]
+    },
+    {
+        "id": "objects/kit_ChocoIcing_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.1592,
+            0.2772,
+            0.2312
+        ]
+    },
+    {
+        "id": "board/board_17.obj",
+        "position_m": [
+            0.2037,
+            0.2457,
+            0.0956
+        ]
+    },
+    {
+        "id": "objects/016_pear_0.obj",
+        "position_m": [
+            0.0958,
+            0.1016,
+            0.1705
+        ]
+    },
+    {
+        "id": "board/board_9.obj",
+        "position_m": [
+            0.2254,
+            0.0756,
+            0.0124
+        ]
+    },
+    {
+        "id": "board/board_1.obj",
+        "position_m": [
+            0.2241,
+            0.0694,
+            0.0544
+        ]
+    },
+    {
+        "id": "objects/bigbird_hunts_sauce_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.1771,
+            0.0359,
+            0.1547
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_013_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.171,
+            0.1311,
+            0.21
+        ]
+    },
+    {
+        "id": "objects/bigbird_v8_fusion_peach_mango_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.1952,
+            0.2599,
+            0.1543
+        ]
+    },
+    {
+        "id": "objects/kit_ChoppedTomatoes_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.2381,
+            0.2542,
+            0.2574
+        ]
+    },
+    {
+        "id": "objects/063-a_marbles_1.obj",
+        "position_m": [
+            0.2001,
+            0.0379,
+            0.254
+        ]
+    },
+    {
+        "id": "objects/kit_OrangeMarmelade_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.259,
+            0.0479,
+            0.1177
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_005_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.2644,
+            0.0435,
+            0.1976
+        ]
+    },
+    {
+        "id": "objects/gd_light_bulb_poisson_001_scaled.obj.smoothed_0.obj",
+        "position_m": [
+            0.2532,
+            0.1834,
+            0.1483
+        ]
+    },
+    {
+        "id": "objects/gd_rubber_duck_poisson_001_scaled.obj.smoothed_5.obj",
+        "position_m": [
+            0.2727,
+            0.2777,
+            0.1569
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_004_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.0313,
+            0.2727,
+            0.1693
+        ]
+    },
+    {
+        "id": "objects/017_orange_0.obj",
+        "position_m": [
+            0.2765,
+            0.1961,
+            0.034
+        ]
+    },
+    {
+        "id": "objects/gd_mushroom_poisson_004_scaled.obj.smoothed_1.obj",
+        "position_m": [
+            0.1113,
+            0.0327,
+            0.1293
+        ]
+    },
+    {
+        "id": "objects/063-a_marbles_2.obj",
+        "position_m": [
+            0.2784,
+            0.2734,
+            0.0337
+        ]
+    }
+]

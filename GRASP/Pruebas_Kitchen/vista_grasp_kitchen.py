@@ -1,4 +1,4 @@
-# vista_tabu_kitchen.py
+# vista_grasp_kitchen.py
 import os
 import json
 import trimesh
@@ -8,7 +8,7 @@ import random
 
 # Rutas
 OBJ_DIR = "dataset/kitchen/shape_vhacd"
-INPUT_JSON = "TS/Pruebas_Kitchen/solucion_tabu_kitchen.json"
+INPUT_JSON = "GRASP/Pruebas_Kitchen/solucion_grasp_kitchen.json"
 
 # Cargar objetos colocados
 with open(INPUT_JSON) as f:
@@ -62,3 +62,5 @@ print(f"Porcentaje lleno:  {porcentaje_ocupado:.2f}%")
 
 # Mostrar
 pyrender.Viewer(scene, use_raymond_lighting=True, point_size=2)
+
+
