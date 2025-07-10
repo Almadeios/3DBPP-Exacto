@@ -14,7 +14,7 @@
 
 # Para el uso del algoritmo tabu search
  Para el dataset Blockout
- * python TS\Pruebas_Blockout\solucion_tabu.json                  (Esto ejecuta el algorimo)
+ * python TS\Pruebas_Blockout\tabu_search.py                  (Esto ejecuta el algorimo)
  * python TS\Pruebas_Blockout\vista_tabu.py                       (Esto muestra el resultado de la operación)
 
  Para el dataset Kitchen
@@ -38,3 +38,6 @@
  Para el dataset Kitchen
  * python GRASP\Pruebas_Kitchen\grasp_kitchen.py                  (Esto ejecuta el algorimo)
  * python GRASP\Pruebas_Kitchen\vista_grasp_kitchen.py            (Esto muestra el resultado de la operación)
+
+
+ # Commentarios, no se logro implementar el algoritmo genetico por temas de optimización y tiempo de procesamiento

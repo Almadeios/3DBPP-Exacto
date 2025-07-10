@@ -7,7 +7,7 @@ import torch
 from trimesh.collision import CollisionManager
 
 # Rutas
-BASE_DIR = "datase/blockout"
+BASE_DIR = "dataset/blockout"
 OBJ_DIR = os.path.join(BASE_DIR, "shape_vhacd")
 SEQUENCE_PATH = os.path.join(BASE_DIR, "test_sequence.pt")
 ID2NAME_PATH = os.path.join(BASE_DIR, "id2shape.pt")
